@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+openai
+cassio
+cassandra-driver
+pandas
+numpy
+yfinance
+streamlit
+livekit-agents
